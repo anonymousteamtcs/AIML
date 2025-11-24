@@ -1,0 +1,7 @@
+# ML_Structured
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+umap-learn
